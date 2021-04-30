@@ -17,12 +17,14 @@ class plugin_laozhoubuluo_threadflow_forum extends plugin_laozhoubuluo_threadflo
 			return '';
 		}
 
+		$position = is_numeric($_G['cache']['plugin']['laozhoubuluo_threadflow']['position']) ? intval($_G['cache']['plugin']['laozhoubuluo_threadflow']['position']) : 300;
+
 		return "
 <script type=\"text/javascript\">
 	if(window.addEventListener) {
 		window.addEventListener('scroll', function(e) {
 			var autopbn = document.getElementById('autopbn');
-			if(autopbn && autopbn.getBoundingClientRect() && autopbn.getBoundingClientRect().bottom < {$_G['cache']['plugin']['laozhoubuluo_threadflow']['position']} + window.innerHeight) {
+			if(autopbn && autopbn.getBoundingClientRect() && autopbn.getBoundingClientRect().bottom < $position + window.innerHeight) {
 				if(autopbn.click) {
 					autopbn.click();
 				} else if(document.createEvent) {
