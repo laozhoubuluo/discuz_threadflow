@@ -5,12 +5,12 @@
 		<item id="plugin">
 			<item id="available"><![CDATA[1]]></item>
 			<item id="adminid"><![CDATA[1]]></item>
-			<item id="name"><![CDATA[老周部落主題資訊流]]></item>
+			<item id="name"><![CDATA[ρ㏄场辅肈戈癟瑈]]></item>
 			<item id="identifier"><![CDATA[laozhoubuluo_threadflow]]></item>
 			<item id="description"><![CDATA[]]></item>
 			<item id="datatables"><![CDATA[]]></item>
 			<item id="directory"><![CDATA[laozhoubuluo_threadflow/]]></item>
-			<item id="copyright"><![CDATA[老周部落]]></item>
+			<item id="copyright"><![CDATA[ρ㏄场辅]]></item>
 			<item id="version"><![CDATA[1.0]]></item>
 			<item id="__modules">
 				<item id="0">
@@ -32,18 +32,18 @@
 		<item id="var">
 			<item id="0">
 				<item id="displayorder"><![CDATA[0]]></item>
-				<item id="title"><![CDATA[開啟主題資訊流功能]]></item>
-				<item id="description"><![CDATA[是否開啟主題資訊流功能]]></item>
+				<item id="title"><![CDATA[秨币肈戈癟瑈]]></item>
+				<item id="description"><![CDATA[琌秨币肈戈癟瑈]]></item>
 				<item id="variable"><![CDATA[status]]></item>
 				<item id="type"><![CDATA[select]]></item>
 				<item id="value"><![CDATA[1]]></item>
-				<item id="extra"><![CDATA[0 = 關閉
-1 = 開啟]]></item>
+				<item id="extra"><![CDATA[0 = 闽超
+1 = 秨币]]></item>
 			</item>
 			<item id="1">
 				<item id="displayorder"><![CDATA[1]]></item>
-				<item id="title"><![CDATA[主題資訊流預讀取位置]]></item>
-				<item id="description"><![CDATA[主題資訊流預讀取位置，預設為頁面下方 300px ，配置時請僅輸入數位]]></item>
+				<item id="title"><![CDATA[肈戈癟瑈箇弄竚]]></item>
+				<item id="description"><![CDATA[肈戈癟瑈箇弄竚箇砞よ 300px 皌竚叫度块计]]></item>
 				<item id="variable"><![CDATA[position]]></item>
 				<item id="type"><![CDATA[text]]></item>
 				<item id="value"><![CDATA[300]]></item>
@@ -51,7 +51,7 @@
 			</item>
 		</item>
 
-		<item id="license"><![CDATA[Copyright 2021 老周部落
+		<item id="license"><![CDATA[Copyright 2021 ρ㏄场辅
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
@@ -64,8 +64,8 @@ limitations under the License.
 NOTICE: Removing or modifying any content about the author will be
 regarded as "remove attribution notices" and is prohibited,
 including name, description and relevant URLs.
-本程式使用 Apache License 2.0 協定授權，您必須遵守此協定才能安裝本程式。
-特別聲明：作者對"必須保留署名"的定義是不得去除程式內的任何一處作者署名，介紹及相關網址等作者個人資訊，也不接受相關修改。]]></item>
-		<item id="intro"><![CDATA[本外掛程式方便使用者使用主題資訊流功能]]></item>
+セ祘Αㄏノ Apache License 2.0 ﹚甭舦眤ゲ斗宽﹚杆セ祘Α
+疭羘癸"ゲ斗玂痙竝"﹚竡琌ぃ眔埃祘Αずヴ矪竝ざ残の闽呼单戈癟ぃ钡闽э]]></item>
+		<item id="intro"><![CDATA[セ本祘Αよ獽ㄏノㄏノ肈戈癟瑈]]></item>
 	</item>
 </root>
